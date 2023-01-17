@@ -34,7 +34,7 @@ The Cinema-Service consists of 3 architectural layers:
 2. Add a TomCat local configuration:
     * TomCat server - local
     * Deployment - war exploded
-    * Application context
+    * Application context - /
 3. Configure your database properties information 
 in src/main/resources/db.properties with your URL, USERNAME, PASSWORD and DRIVER
 Then you will be able to work with Cinema-Service
