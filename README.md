@@ -27,6 +27,7 @@ The Cinema-Service consists of 3 architectural layers:
 - Apache Tomcat
 - MySQL
 - Hibernate
+- Spring
 - Checkstyle plugin
 
 ## How to run:
